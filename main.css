@@ -21,10 +21,11 @@ h1, h3 {
     border: solid;
     color: white;
     font-family: sans-serif;
-    padding: 20px;
+    padding: 10px;
     background: transparent;
     margin: 0;
-    text-align: center;
+ text-align: center;
+ 
 }
 
 ol {
@@ -50,6 +51,18 @@ h2 {
     border: solid; 
     color: white
 }
+
+div {
+    margin: auto;
+    border: 2px solid white;
+    padding: 10px;
+    width: 900px;
+    height: 200px;
+    border-radius: 12px;
+    background-color: darkblue;
+    color: white
+}
+
 /* header nav {
     display: table;
     width: 98%;
