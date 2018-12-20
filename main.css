@@ -96,6 +96,11 @@ section div {
     }
 }
 
+li {
+    color: white;
+    text-align: center;
+}
+
 /* header nav {
     display: table;
     width: 98%;
